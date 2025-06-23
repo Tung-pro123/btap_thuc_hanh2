@@ -1,7 +1,7 @@
 "Thêm thành viên nhóm"
-"1.Lê Thanh Tùng, SE203438, Truong Nhom"
-"2. Lâm Huỳnh Khang, SE200666, Thanh vien"
-3
-4
+1. Lê Thanh Tùng, SE203438, Truong Nhom
+2. Hà Lê Thành Nhân
+3. Lô Thái Quyền, SE203449, Ăn không ngồi rồi
+4. Lâm Huỳnh Khang, SE200666, Thanh vien
 
 
