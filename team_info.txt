@@ -1,6 +1,6 @@
 "Thêm thành viên nhóm"
 "1.Lê Thanh Tùng, SE203438, Truong Nhom"
-2
+"2. Lâm Huỳnh Khang, SE200666, Thanh vien"
 3
 4
 
